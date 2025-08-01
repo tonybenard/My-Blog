@@ -15,7 +15,7 @@ using Python on the backend and HTML/CSS/javascript for frontend templating.
 
 - **Backend:** Flask (Python)
 - **Database:** SQLite (local) / PostgreSQL (production)
-- **Frontend:** HTML5, CSS3, Jinja2 templating, Boostrap
+- **Frontend:** HTML5, CSS3, Jinja2 templating, Bootstrap5
 - **Deployment:** Render
 - **Version Control:** Git & GitHub
 
