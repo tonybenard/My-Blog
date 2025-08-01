@@ -234,7 +234,7 @@ def about():
     return render_template("about.html", year=current_year)
 
 
-@app.route("/contact")
+@app.route("/contact", methods=["GET","POST"])
 def contact():
     form = ContactForm()
     if form.validate_on_submit():
